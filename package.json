@@ -11,8 +11,10 @@
   "author": "aman1117",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "express": "^4.21.2",
     "mongoose": "^8.8.4",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "validator": "^13.12.0"
   }
 }
